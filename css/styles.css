@@ -300,6 +300,30 @@ img {
   margin-right: 0;
 }
 
+.our-service {
+  position: relative;
+}
+
+.our-work-description {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+
+  padding-top: 27px;
+  padding-bottom: 27px;
+
+  background: rgba(47, 48, 58, 0.8);
+  width: 100%;
+
+  font-weight: 700;
+  line-height: 1.14;
+  text-align: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: var(--fourth-text-color);
+}
+
 .our-work-title,
 .team-title {
   margin-bottom: 50px;
