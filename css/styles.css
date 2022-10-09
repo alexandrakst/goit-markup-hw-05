@@ -436,17 +436,20 @@ img {
   background-color: var(--accent-color);
 }
 
+.our-clients {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .clients {
   display: flex;
   justify-content: center;
 
-  padding-bottom: 94px;
   gap: 30px;
 }
 
 .clients-header {
-  padding-top: 94px;
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 
   font-size: 36px;
   line-height: 1.16;
